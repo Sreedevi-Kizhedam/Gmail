@@ -7,4 +7,9 @@ Inbox features added.
 
 Delete feature added.
 
+Compose feature added
+
+Spam feature Added
+
 Archive feature added
+
